@@ -16,6 +16,8 @@ AquaDI/
 
 ├── scripts/ # Vaizdo generavimo DI  modeliai
 
+├── voice/ # Balso apdorojimo skriptai
+
 ├── requirements.txt # Reikalingos bibliotekos
 
 └── README.md # Šis failas
