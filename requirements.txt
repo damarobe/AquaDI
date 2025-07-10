@@ -1,0 +1,30 @@
+# Garso analizė
+librosa>=0.10.0
+soundfile>=0.12.1
+
+# Vaizdo apdorojimas ir generavimas
+numpy>=1.24.0
+matplotlib>=3.7.0
+opencv-python>=4.8.0
+Pillow>=9.5.0
+scikit-image>=0.21.0
+
+# Skysčių simuliacija ir modeliavimo įrankiai
+scipy>=1.11.0
+
+# Gylio modeliai ir vizualių savybių analizė
+torch>=2.0.0
+torchvision>=0.15.0
+lpips>=0.1.4
+
+# Vartotojo sąsaja (jei naudojate GUI)
+PyQt5>=5.15.9
+
+# Vertinimo metrikos ir statistika
+scikit-learn>=1.3.0
+
+# Notebook analizė (nebūtina, jei neplanuojate naudoti)
+jupyter>=1.0.0
+
+# Paveikslėlių ir rezultatų vizualizacija
+seaborn>=0.12.2
