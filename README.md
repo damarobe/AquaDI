@@ -12,6 +12,8 @@ AquaDI/
 
 ├── evaluation/ # Metrikų (LPIPS, SSIM, PSNR) skaičiavimas ir vaizdų analizė
 
+├── models/ # CPPN skriptai
+
 ├── sample images/ # Pavyzdiniai paveikslai sugeneruoti naudojant įvairius DI modelius
 
 ├── scripts/ # Vaizdo generavimo DI  modeliai
