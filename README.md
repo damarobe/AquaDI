@@ -7,6 +7,7 @@
 ## 🔧 Projekto struktūra
 
 AquaDI/
+
 ├── data/ # Duomenys: garso įrašai, paveikslai, sugeneruoti rezultatai
 
 ├── evaluation/ # Metrikų (LPIPS, SSIM, PSNR) skaičiavimas ir vaizdų analizė
