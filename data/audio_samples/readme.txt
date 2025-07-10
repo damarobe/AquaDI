@@ -1,1 +1,1 @@
-
+Balso pavyzdžiai buvo parinkti iš viešai prieinamo duomenų rinkinio CREMA-D (Crowd-sourced Emotional Multimodal Actors Dataset) (https://www.kaggle.com/datasets/ejlok1/cremad), kuris skirtas emocinio kalbos tono atpažinimo ir sintezės tyrimams. 
