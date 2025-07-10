@@ -8,12 +8,21 @@
 
 AquaDI/
 ├── data/ # Duomenys: garso įrašai, paveikslai, sugeneruoti rezultatai
+
 ├── models/ # Vaizdo generavimo ir skysčių simuliacijos moduliai
+
 ├── evaluation/ # Metrikų (LPIPS, SSIM, PSNR) skaičiavimas ir analizė
+
+├── sample images/ # Pavyzdiniai paveikslai sugeneruoti naudojant įvairius DI modelius
+
 ├── ui/ # Naudotojo sąsajos prototipas
+
 ├── tests/ # Testai ir testavimo scenarijai
+
 ├── notebooks/ # Tyrimų ir analizės Jupyter aplankas
+
 ├── requirements.txt # Reikalingos bibliotekos
+
 └── README.md # Šis failas
 
 
